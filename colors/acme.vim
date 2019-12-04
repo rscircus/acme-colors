@@ -14,7 +14,7 @@ highlight! FoldColumn guibg=#fcfcce guifg=fg ctermbg=229 ctermfg=fg
 highlight! Conceal guibg=bg guifg=fg gui=NONE ctermbg=bg ctermfg=fg cterm=NONE
 highlight! LineNr guibg=bg guifg=#505050 gui=italic ctermbg=bg ctermfg=239 cterm=italic
 highlight! Visual guibg=fg guifg=bg ctermbg=fg ctermfg=bg
-highlight! CursorLine guibg=#ffffca guifg=fg ctermbg=230 ctermfg=fg
+highlight! CursorLine cterm=None guibg=#ffffca guifg=fg ctermbg=230 ctermfg=fg
 
 highlight! Statement guibg=bg guifg=fg gui=italic ctermbg=bg ctermfg=fg cterm=italic
 highlight! Identifier guibg=bg guifg=fg gui=bold ctermbg=bg ctermfg=fg cterm=bold
