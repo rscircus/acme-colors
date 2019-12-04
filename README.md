@@ -1,6 +1,6 @@
-# acme-colors for vim
+# ACME-colors for vim
 
-acme colors for vim. Because code counts.
+ACME colors for vim. Because code counts.
 
 Supports 256 colors.
 
